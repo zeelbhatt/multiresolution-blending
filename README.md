@@ -10,8 +10,12 @@
 
 
 ![image4](reverse_pyrmd.png)
+
 *Generating the image back*
 
 
+
+
 ![image6](blended_op.png)
+
 *Multiresolution blending*
