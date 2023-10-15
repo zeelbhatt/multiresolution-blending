@@ -13,9 +13,5 @@
 *Generating the image back*
 
 
-![image5](alpha_blending.png)
-*Naive approaches*
-
-
 ![image6](blended_op.png)
 *Multiresolution blending*
